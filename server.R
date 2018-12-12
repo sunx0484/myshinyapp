@@ -151,7 +151,7 @@ sextotal=rbind(countTable5,countTable1,countTable4,countTable2,countTable6,count
 sextotal$Year=as.numeric(sextotal$Year)
 colnames(sextotal)=c("Sex","Population","Year")
 
-state = readOGR("C:/Users/87520/Documents/data/myshinyapp/cb_2017_us_state_500k","cb_2017_us_state_500k")
+state = readOGR("cb_2017_us_state_500k","cb_2017_us_state_500k")
 state1=subset(state,is.element(state$NAME,countTable5a$State))
 state2=subset(state,is.element(state$NAME,countTable4a$State))
 state3=subset(state,is.element(state$NAME,countTable3a$State))
