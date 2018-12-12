@@ -1,0 +1,6 @@
+intentName,crudeNumber,crudeRate,ageAdjustedRate,population,appliedFilters
+Unintentional,"146,571",1.8,0.2,8356889320,"Start Year: 2015, End Year: 2015, All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+Suicide,"44,193",1.0,0.1,4499863480,"Start Year: 2015, End Year: 2015, All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+Homicide,"17,793",0.4,0.1,4178444660,"Start Year: 2015, End Year: 2015, All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+Undetermined,"4,915",0.1,0.0,4178444660,"Start Year: 2015, End Year: 2015, All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+Legal Interv.,530,0.1,0.1,964256460,"Start Year: 2015, End Year: 2015, All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
